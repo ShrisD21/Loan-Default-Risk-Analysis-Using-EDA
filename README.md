@@ -5,9 +5,9 @@ The loan-providing companies find it hard to give loans to people due to their i
 
 When the company receives a loan application, it has to decide on the loan based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
 
-If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+1. If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 
-If the applicant is not likely to repay the loan, i.e., he/she is likely to default, then approving the loan may lead to a financial loss for the company.
+2. If the applicant is not likely to repay the loan, i.e., he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
  
 The data given contains information about the loan application at the time of applying for the loan. It contains two types of scenarios:
