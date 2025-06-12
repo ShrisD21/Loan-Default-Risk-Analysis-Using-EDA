@@ -19,13 +19,13 @@ All other cases: All other cases when the payment is paid on time.
 
 When a client applies for a loan, four types of decisions can be made by the client/company:
 
-Approved: The Company has approved the loan Application
+**Approved:** The Company has approved the loan Application
 
-Cancelled: The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client, he received worse pricing, which they did not want.
+**Cancelled:** The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client, he received worse pricing, which they did not want.
 
-Refused: The company had rejected the loan (because the client does not meet their requirements, etc.
+**Refused:** The company had rejected the loan (because the client does not meet their requirements, etc.
 
-Unused offer: The  Loan has been cancelled by the client, but at different stages of the process.
+**Unused offer:** The  Loan has been cancelled by the client, but at different stages of the process.
 
 In this case study, we use EDA to understand how consumer attributes and loan attributes influence the tendency to default.
 
